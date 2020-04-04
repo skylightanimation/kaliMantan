@@ -1,13 +1,19 @@
 # kaliMantan
-kaliMantan Multiplication Game
+**kaliMantan** is a math game for multiplication adopts from the *ladder snake game* or *ular tangga*. This game tells about crossing **Kalimantan Island** with mathematics symbols (×) times. To move the player based on the number of questions / Math Quest (Multiplication) that can be solved on Turn Time that set. How the first player that can go to finish is a Winner Player.
 
-kaliMantan Multiplication Game is adventure game like Ular Tangga . This game tell us about crossing xmantan Island with mathematics syimbol . To move from point into the other poitn doesn't use dice but using how many Math Quest that can resolve on Turn Time that you setting.
-How the first player that can go to finish is a Winner Player.
+# How To Play
+1. Go to [GamePlay](https://skylightanimation.github.io/kalimantan/playgame.html)
+2. Set names of Player1 and Player2
+3. Set Main Time and Turn Time
+4. Start Game
 
-url : https://skylightanimation.github.io/kalimantan/index.html
-url : https://skylightanimation.github.io/kalimantan/playgame.html
+# Game
+## Home Page
+**kaliMantan** [HomePage](https://skylightanimation.github.io/kalimantan/).
+## Game Play
+**kaliMantan** [GamePlay](https://skylightanimation.github.io/kalimantan/playgame.html).
 
-
+# Contributor
 ########################################################################
 ########################################################################
 ####																                                ####
