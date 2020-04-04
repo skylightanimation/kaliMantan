@@ -12,3 +12,20 @@
 **kaliMantan** [HomePage](https://skylightanimation.github.io/kalimantan/).
 ## Game Play
 **kaliMantan** [GamePlay](https://skylightanimation.github.io/kalimantan/playgame.html).
+
+# Contributor
+########################################################################
+########################################################################
+####																                                ####
+####	  develop by SkyLigt_Army										                  ####
+####	  design by SKYLIGHT_ANIMATION								                ####
+####																                                ####	
+####	  facebook : https://www.facebook.com/SkyLight.Animation/		  ####
+####	  twitter : https://twitter.com/skylight_army/				        ####
+####	  github : https://github.com/skylightanimation 			        ####	
+####																                                ####	
+####	  program Leader : Ichiri Ryunoske								            ####	
+####																                                ####	
+########################################################################
+########################################################################
+
