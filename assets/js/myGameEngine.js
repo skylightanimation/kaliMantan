@@ -4,9 +4,6 @@
 		scorePlayer2 = 0;
 	var nswerTrue, answerInput, point;
 
-
-
-
 	function userInput() {
 		player1 = document.getElementById("user1Name").value;
 		player2 = document.getElementById("user2Name").value;
@@ -261,7 +258,9 @@
 		$('#bodyTurnOver').show();
 		// body...
 	}
+	
 	function load() {
+		loader();
 		$('#gamePage').hide();
 		$('#beforePlayPage').show();
 	}

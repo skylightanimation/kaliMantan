@@ -1,6 +1,6 @@
 /*how to carousel*/
-.noteBox{line-height: 40px!important; padding: 25px 15px; vertical-align: middle; background: rgba(255, 255, 255, 0.75);font-size: 24px!important;color:  #19b698!important}
-h3 p {line-height: 40px!important; padding: 25px 15px; vertical-align: middle; background: rgba(255, 255, 255, 0.75);}
+.noteBox{line-height: 40px!important; padding: 25px 15px; vertical-align: middle; background: rgba(255, 255, 255, 0.95);font-size: 24px!important;color:  #19b698!important}
+h3 p {line-height: 40px!important; padding: 25px 15px; vertical-align: middle; background: rgba(255, 255, 255, 0.95);}
 .carousel-indicators{position: relative!important;padding: 0px!important}
 .carouselBackground{background-position:center!important;background-image: url(../../assets/img/backgroundNone.png)!important;min-height: auto!important;background-repeat: no-repeat!important;height: 350px!important}
 .carousel-indicators li {
@@ -31,10 +31,9 @@ h3 p {line-height: 40px!important; padding: 25px 15px; vertical-align: middle; b
 	width: 12px;
 	height: 12px;
 	margin: 0;
-		color: #555;
+	color: #555;
 	cursor: default;
 	background-color: #f9f9f9;
-/*  border: 1px solid #ddd;*/
 	border-bottom-color: transparent!important;
 }
 

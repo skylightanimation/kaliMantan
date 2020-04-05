@@ -1,0 +1,98 @@
+.loader {
+	border: 10px solid #f3f3f3;
+	border-radius: 50%;
+	border-top: 10px solid #3498db;
+	margin: 20% 44%;
+	width: 150px;
+	height: 150px;
+	-webkit-animation: spin 2s linear infinite;
+	position: fixed;
+	animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+	0% { -webkit-transform: rotate(0deg); }
+	100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+	0% { transform: rotate(0deg); }
+	100% { transform: rotate(360deg); }
+}
+
+.logo {
+	background: url(../../assets/img/favicon.png);
+	width: 110px;
+	height: 110px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: absolute;
+	margin: 21.98% 45.57%;
+}
+.bodyLoad{
+	position: fixed;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+
+}
+.textLogo {
+	position: fixed;
+	font-size: 1.5rem;
+	margin: 55% -5% 20% -6%;
+}
+
+#loading div.modal-dialog {
+	width: 100%;
+	height: 100%;
+	border-radius: 0px;
+	margin: 0px;
+	overflow: hidden;
+}
+#loading div.modal-dialog div.modal-content div.modal-body{
+	/*background: url(assets/img/0945839058230.png);*/
+	height: 100%;
+	background-size: 160% 100%;
+	background-repeat: no-repeat;
+}
+#loading div.modal-dialog div.modal-content {
+	height: 100%;
+	width: 100%;
+	background: #fff!important;
+	border-radius: 0px;
+}
+/*.loader {
+	border: 10px solid #f3f3f3;
+	border-radius: 50%;
+	border-top: 10px solid #3498db;
+	border-bottom: 10px solid #bba65a;
+	width: 150px;
+	height: 150px;
+	-webkit-animation: spin 2s linear infinite;
+	animation: spin 2s linear infinite;
+}
+@-webkit-keyframes spin {
+	0% { -webkit-transform: rotate(0deg); }
+	100% { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+	0% { transform: rotate(0deg); }
+	100% { transform: rotate(360deg); }
+}*/
+/*.loader-position {
+	margin: 15% 0px;
+}*/
+
+
+@media screen and (max-width: 740px){
+	.logo{
+		margin: 23% 46.57%;
+	}
+}
+@media screen and (max-width: 600px){
+	.logo {
+		margin: 24% 47%;
+	}
+}
+    
