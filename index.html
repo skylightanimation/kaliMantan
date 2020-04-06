@@ -19,6 +19,7 @@
 		<link rel="stylesheet" href="./assets/css/font-awesome.css">
 		<link rel="stylesheet" href="./assets/css/font-awesome.min.css">
 		<script src="./assets/js/jquery.min.js"></script>
+		<script src="./assets/js/loader.js"></script>
 		<script src="./assets/js/bootstrap.min.js"></script>
 		<!-- online bootstrap & font awesome -->
 		<!--
@@ -29,25 +30,14 @@
 
 			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVxV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIxwl/Sp" crossorigin="anonymous">
 		-->
-
 	</head>
-	<body onload="loader()">
+	<body onload>
 	<!-- loader -->
-		<div class="modal fade" id="loading" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-			<div class="modal-dialog">
-				<div class="modal-content">
-					<div class="modal-body">
-						<div class="loader-position">
-						<center>
-						<div id="loader">
-							<div class="bodyLoad"><div class="loader"></div>
-							<div class="logo"></div></div>
-							<b class="textLogo">SkyLight_Animation</b>
-						</div>
-						</center>
-					</div>
-					</div>
-				</div>
+		<div id="loading">
+			<div class="logo"></div>
+			<span class="loader"></span>
+			<div class="logoPosision">
+				<span><b class="textLogo">SkyLight_Animation</b></span>
 			</div>
 		</div>
 	<!-- loader -->
@@ -337,10 +327,6 @@
 
 		</div>
 	<!-- footer -->
-
-		<script src="./assets/js/jquery.min.js"></script>
-		<script src="./assets/js/bootstrap.min.js"></script>
-		<script src="./assets/js/loader.js"></script>
 	</body>
 </html>
 

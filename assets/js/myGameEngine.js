@@ -260,7 +260,7 @@
 	}
 	
 	function load() {
-		loader();
+		// loader();
 		$('#gamePage').hide();
 		$('#beforePlayPage').show();
 	}

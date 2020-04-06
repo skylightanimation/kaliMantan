@@ -1,16 +1,8 @@
-var delay = 5000;
-
-function loader(){
-	$('#loading').modal('show');
-	setTimeout(function(){
-		$('#loading').modal('hide');
-	},delay);
-	
-};
-
-
 $(window).load(function() {
 	setTimeout(function(){
-		$('#loading').modal('hide');
-	},delay);
+		// $("#loading").fadeOut("slow");
+		// $(".loader").fadeOut("slow");
+		$("#loading").hide();
+		$(".loader").hide();
+	},3000);
 });
